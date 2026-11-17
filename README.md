@@ -37,32 +37,7 @@ Task 2 reports are regenerated on each run. Task 4's log is append-only; remove 
 - Task06/fest_registration is the reusable package.
 - evidence/README.md lists the screenshots to capture after running the programs.
 - REPORT.md contains written answers, pseudocode, traces and complexity comparisons.
-- COMMIT_PLAN.md gives a 27-step commit sequence for progressive GitHub history.
-
-## Progressive Git history
-
-Create the repository named CSA08-[RegisterNumber]-Assignment4, then commit each task as completed. Example:
-
-~~~text
-git init
-git add README.md requirements.txt REPORT.md Task01
-git commit -m "Complete Task 1 file processing"
-git add Task02
-git commit -m "Complete Task 2 attendance design"
-git add Task03
-git commit -m "Complete Task 3 exception handling"
-git add Task04
-git commit -m "Complete Task 4 file forensics"
-git add Task05
-git commit -m "Complete Task 5 module organizations"
-git add Task06
-git commit -m "Complete Task 6 fest registration package"
-git remote add origin <your-repository-url>
-git branch -M main
-git push -u origin main
-~~~
-
-Add the requested screenshots and output samples to the task folders before the final push. Confirm the repository link works and share it with the course faculty as required.
+- COMMIT_PLAN.md gives a 27-step commit sequence for progressive GitHub history
 
 =======
 # -CSA08-1924260076-Assignment4
