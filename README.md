@@ -1,17 +1,15 @@
-<<<<<<< HEAD
+
 # CSA08 Assignment 4 — Robust Data Processing
 
 Before submission, replace bracketed fields, run the programs in VS Code, save screenshots, inspect generated files, and push this folder to GitHub.
 
 ## Student details
 
-- Name: [Your full name]
-- Register number: [Your register number]
-- Repository: CSA08-[RegisterNumber]-Assignment4
-- GitHub link: [Paste working repository URL here]
-- Python version used: [Run python --version in the VS Code terminal and fill this in]
-- Minimum version expected: Python 3.9
-- Libraries: Python standard library only; see requirements.txt
+- Name: Prajeesh B
+- Register number: 1924260076
+- Repository: CSA08-1924260076-Assignment4
+- GitHub link: https://github.com/bprajeesh1117-rgb/-CSA08-1924260076-Assignment4
+- Python version used: Python 3.15.2
 
 ## Run commands
 
