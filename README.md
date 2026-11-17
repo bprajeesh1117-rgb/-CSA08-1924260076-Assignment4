@@ -1,8 +1,6 @@
 
 # CSA08 Assignment 4 — Robust Data Processing
 
-Before submission, replace bracketed fields, run the programs in VS Code, save screenshots, inspect generated files, and push this folder to GitHub.
-
 ## Student details
 
 - Name: Prajeesh B
