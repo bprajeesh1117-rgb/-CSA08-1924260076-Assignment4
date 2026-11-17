@@ -1,0 +1,3 @@
+192311006,Riya,CIVIL,riya@example.edu
+192311007,Manoj,CIVIL,manoj@example.edu,Drama
+
