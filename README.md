@@ -39,6 +39,4 @@ Task 2 reports are regenerated on each run. Task 4's log is append-only; remove 
 - REPORT.md contains written answers, pseudocode, traces and complexity comparisons.
 - COMMIT_PLAN.md gives a 27-step commit sequence for progressive GitHub history
 
-=======
-# -CSA08-1924260076-Assignment4
->>>>>>> 66072a3f990d950137799c9b8287d10f2b124311
+
